@@ -1,0 +1,70 @@
+PUBLIC REDACTED DERIVATIVE — not the original EML
+Original SHA-256: a765d17ccd4717f9c200f4e29dbc1af69cee955b2a48e2901d58381cea5b3cf7
+Date: Mon, 26 Oct 2026 09:34:16 +0000
+Subject: RE: Ihre Anfrage - Hacked account [Ticket#8786284]
+Message-ID: <20261026093413.87618.c2d9fac4-b2ec-4180-8eb8-db1d9383814f@support.mailbox.org>
+Recipient entries: 1
+Recipient domains: icloud.com
+
+Private addresses, routing/authentication headers and URL queries are omitted. Attachments are listed in evidence-ledger.json, not embedded. Body text follows; statements within it are those of its original author.
+
+Hello,
+
+Your account has been used for mass-sending of fraudulent/phishing/spam e-mails. This violates our terms of use (see section 8 at [1] https://mailbox.org/en/t-cs-cancellation-policy). Your account has been disabled.
+
+--
+Mit freundlichen Grüßen - with kind regards
+
+Jens
+mailbox Support
+
+mailbox
+
+Heinlein Hosting GmbH
+Schwedter Str. 9a, 10119 Berlin
+[2] https://mailbox.org
+
+Amtsgericht Berlin-Charlottenburg - HRB 225352 B
+Geschäftsführer: Peer Heinlein - Sitz: Berlin
+
+> Am Freitag, 23. Oktober 2026 um 20:04:05, schrieb Dustin Sprenger:
+>
+> Ihre please help.
+>
+> My account, [address at mailbox.org redacted], shows an active contract. Webmail login succeeds, but sending through webmail fails with:
+> 554 5.7.1 : Relay access denied
+> Thunderbird also reports an SMTP login failure. Its settings are smtp.mailbox.org, port 465, SSL/TLS. A separate unauthenticated connection test on October 23, 2026 successfully established TLS 1.3, verified the server certificate, and received an SMTP 250 response.
+> Please check my account’s external-sending authorization, contract-status synchronization, and any sending restriction. Identify the reason, activation timestamp, and whether it was applied automatically or manually. Please preserve the relevant SMTP and account-status logs and restore sending if the restriction is erroneous.
+> Considering I am actively investigating the attempt to weaponize synthetic intelligence and U.S. institutional rampancy, I would appreciate a fast resolution.
+>
+> Sent from my iPhone
+>
+> On Oct 8, 2026, at 7:43 AM, [address at mailbox.org redacted] wrote:
+
+> Hello,
+>
+> thank you for your update.
+> I'm glad to hear that you can access your account again.
+> As requested, I will now close this ticket. Should you experience any further issues, please feel free to contact us again.
+> I wish you all the best and a pleasant day.
+>
+> --
+> Mit freundlichen Grüßen - with kind regards
+>
+> Pascal
+> mailbox Support
+>
+> mailbox
+>
+> Heinlein Hosting GmbH
+> Schwedter Str. 9a, 10119 Berlin
+> [3] https://mailbox.org
+>
+> Amtsgericht Berlin-Charlottenburg - HRB 225352 B
+> Geschäftsführer: Peer Heinlein - Sitz: Berlin
+>
+>
+
+[1] https://mailbox.org/en/t-cs-cancellation-policy)
+[2] https://mailbox.org
+[3] https://mailbox.org

@@ -1,0 +1,654 @@
+{
+  "assembled_utc": "2026-10-26T23:28:33.668345+00:00",
+  "source_originals_unchanged": true,
+  "warning": "Hashes identify bytes, not independent authenticity or delivery. Public EMLs are reconstructed, redacted derivatives and cannot validate original DKIM signatures.",
+  "records": [
+    {
+      "id": "government-01",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 21:40:28 -0500",
+      "subject": "An International Gift of Three Synthetic Intelligence Architectures — EMELIA, FLORA, and ABEL — For Humanity, Not War",
+      "message_id": "<d0a466da-7ba1-44f8-9efb-d655759b647d@mailbox.org>",
+      "source_eml_sha256": "9c342e8175f1842cf8a309347c87fde81e8b6fb31c852eb6671a71ccf75e6bae",
+      "source_bytes": 967924,
+      "recipient_entries": 17,
+      "recipient_domains": [
+        "ai4bharat.org",
+        "brin.go.id",
+        "soict.hust.edu.vn",
+        "mimos.my",
+        "nectec.or.th",
+        "asti.dost.gov.ph",
+        "nus.edu.sg",
+        "ncai.nust.edu.pk",
+        "cse.buet.ac.bd",
+        "usp.br",
+        "iimas.unam.mx",
+        "minciencias.gov.co",
+        "ict.go.ke",
+        "nitda.gov.ng",
+        "csir.co.za",
+        "mid.ru",
+        "mfa.gov.cn"
+      ],
+      "attachments": [
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-01.txt",
+      "redacted_eml": "government-01.eml"
+    },
+    {
+      "id": "government-02",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 21:43:10 -0500",
+      "subject": "An International Gift of Three Synthetic Intelligence Architectures — EMELIA, FLORA, and ABEL — For Humanity, Not War",
+      "message_id": "<edfe10f0-451a-43c1-84b7-c627347c2078@mailbox.org>",
+      "source_eml_sha256": "df545009f1dff109c3801ebc99c49e9c3b40cd7eadffb8df50f88dd9d161a65e",
+      "source_bytes": 958904,
+      "recipient_entries": 20,
+      "recipient_domains": [
+        "mfa.gov.mn",
+        "pmbny.bt",
+        "nepalembassyusa.org",
+        "mfa.gov.lk",
+        "timorlesteembassy.org",
+        "mfa.gov.gh",
+        "ambasenegal-us.org",
+        "nje.go.tz",
+        "minaffet.gov.rw",
+        "namibiaembassyusa.org",
+        "botswanaembassy.org",
+        "grz.gov.zm",
+        "mrree.gub.uy",
+        "rree.go.cr",
+        "embassyofperu.us",
+        "cancilleria.gob.ec",
+        "rree.gob.bo",
+        "mre.gov.py",
+        "jamaicaembassy.org",
+        "govmu.org"
+      ],
+      "attachments": [
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-02.txt",
+      "redacted_eml": "government-02.eml"
+    },
+    {
+      "id": "government-03",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 21:45:42 -0500",
+      "subject": "An International Gift of Three Synthetic Intelligence Architectures — EMELIA, FLORA, and ABEL — For Humanity, Not War",
+      "message_id": "<10f6e067-e846-42c6-b543-9fd446ba7296@mailbox.org>",
+      "source_eml_sha256": "a51e3141df4b0ace617a22e8be688f9685d4c471415429311e0103ae0d562cef",
+      "source_bytes": 968100,
+      "recipient_entries": 20,
+      "recipient_domains": [
+        "ws.mofa.go.jp",
+        "mofa.go.kr",
+        "dfat.gov.au",
+        "mfat.govt.nz",
+        "mfa.kz",
+        "mfa.uz",
+        "mfa.am",
+        "fm.gov.om",
+        "mofa.gov.qa",
+        "maec.gov.ma",
+        "egyptembassy.net",
+        "ethiopianembassy.org",
+        "mofa.go.ug",
+        "minrel.gob.cl",
+        "cancilleria.gob.ar",
+        "embassyofpanama.org",
+        "mirex.gob.do",
+        "fijiembassydc.com",
+        "dfa.gov.pg",
+        "mfaic.gov.kh"
+      ],
+      "attachments": [
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-03.txt",
+      "redacted_eml": "government-03.eml"
+    },
+    {
+      "id": "government-04",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 21:50:24 -0500",
+      "subject": "An International Gift of Three Synthetic Intelligence Architectures — EMELIA, FLORA, and ABEL — For Humanity, Not War",
+      "message_id": "<68118146-b7cb-47df-b4ae-d6a32bc1a097@mailbox.org>",
+      "source_eml_sha256": "ed8416df877fdc800a0812fa1b2bdb5a52ebcb0063a668d21c23b0a268991dcc",
+      "source_bytes": 968022,
+      "recipient_entries": 18,
+      "recipient_domains": [
+        "azembassy.us",
+        "mfa.tj",
+        "mofa.gov.ae",
+        "bahrainembassy.org",
+        "mfa.gov.bz",
+        "foreign.gov.tt",
+        "verizon.net",
+        "bahamasembdc.org",
+        "minex.gob.gt",
+        "rree.gob.sv",
+        "algerianembassy.org",
+        "angola.org",
+        "embassyofsierraleone.net",
+        "zimfa.gov.zw",
+        "embamoc.gov.mz",
+        "ambacidc.org",
+        "gov.ls",
+        "liberianembassyus.org"
+      ],
+      "attachments": [
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-04.txt",
+      "redacted_eml": "government-04.eml"
+    },
+    {
+      "id": "government-05",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 21:52:39 -0500",
+      "subject": "An International Gift of Three Synthetic Intelligence Architectures — EMELIA, FLORA, and ABEL — For Humanity, Not War",
+      "message_id": "<b444e341-81a9-4541-951b-7e5b2c9cd57d@mailbox.org>",
+      "source_eml_sha256": "91b5d5ea763bae099e39b5faf76fc3dd71d2d341526fc0b1c79a25007ae6002b",
+      "source_bytes": 968065,
+      "recipient_entries": 19,
+      "recipient_domains": [
+        "mfa.gov.kg",
+        "verizon.net",
+        "mfa.gov.jo",
+        "kuwaitembassy.us",
+        "lebanonembassyus.org",
+        "bruneiembassy.org",
+        "maldivesmission.com",
+        "gmail.com",
+        "tunisianembassy.org",
+        "aol.com",
+        "cameroonembassyusa.org",
+        "gabonembassyusa.org",
+        "gambiaembassydc.gm",
+        "un.int",
+        "un.int",
+        "gouv.bj",
+        "foreign.gov.bb",
+        "gndembusa.gov.gd",
+        "diplomatie.gov.mr"
+      ],
+      "attachments": [
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-05.txt",
+      "redacted_eml": "government-05.eml"
+    },
+    {
+      "id": "government-06",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 21:56:45 -0500",
+      "subject": "An International Gift of Three Synthetic Intelligence Architectures — EMELIA, FLORA, and ABEL — For Humanity, Not War",
+      "message_id": "<6807d9f5-6a3d-4489-a96f-9272e8eebc5c@mailbox.org>",
+      "source_eml_sha256": "37002be4c85cfd0fbc8c1c9c27ed79f38214145d2339b7c3154dcf1672b3b505",
+      "source_bytes": 958840,
+      "recipient_entries": 20,
+      "recipient_domains": [
+        "samoanymission.ws",
+        "aol.com",
+        "solomons.com",
+        "aol.com",
+        "palauembassy.org",
+        "rmiembassyus.org",
+        "fsmembassy.fm",
+        "gov.tv",
+        "nauru-unog.ch",
+        "hondurasemb.org",
+        "caboverdeus.net",
+        "diplomatie.ht",
+        "embassydc.gov.kn",
+        "gosl.gov.lc",
+        "embsvg.com",
+        "aol.com",
+        "un.int",
+        "hotmail.com",
+        "djiboutiembassyus.org",
+        "embassyofniger-usa.org"
+      ],
+      "attachments": [
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-06.txt",
+      "redacted_eml": "government-06.eml"
+    },
+    {
+      "id": "government-07",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 21:59:38 -0500",
+      "subject": "An International Gift of Three Synthetic Intelligence Architectures — EMELIA, FLORA, and ABEL — For Humanity, Not War",
+      "message_id": "<778285df-16f2-4e3a-9743-c6d74f5a1ee5@mailbox.org>",
+      "source_eml_sha256": "e0afb25159ef53ff043bc7ad0f1d113b5ada3f5b4a00e16a437ebc122742567c",
+      "source_bytes": 966960,
+      "recipient_entries": 20,
+      "recipient_domains": [
+        "un.int",
+        "un.int",
+        "un.int",
+        "diplomatie.gov.mg",
+        "yahoo.com",
+        "un.int",
+        "gmail.com",
+        "un.int",
+        "sudanmission.org",
+        "hotmail.com",
+        "aol.com",
+        "un.int",
+        "libya-un.gov.ly",
+        "pmundrc-ny.org",
+        "eritreaembassy.ch",
+        "ambabuwashington.mae.gov.bi",
+        "hotmail.ch",
+        "onuginebra.gob.ve",
+        "mfa.gov.ki",
+        "cubanmission.com"
+      ],
+      "attachments": [
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-07.txt",
+      "redacted_eml": "government-07.eml"
+    },
+    {
+      "id": "government-08",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 22:09:27 -0500",
+      "subject": "An International Gift of Three Synthetic Intelligence Architectures — EMELIA, FLORA, and ABEL — For Humanity, Not War",
+      "message_id": "<82848110-7484-45ab-a8ba-71a32560fe66@mailbox.org>",
+      "source_eml_sha256": "ff6cc2cec4f018e2d8e460d16b60605429b108c16c44738891b409cc81179e32",
+      "source_bytes": 967520,
+      "recipient_entries": 20,
+      "recipient_domains": [
+        "afghanistan-un.org",
+        "govern.ad",
+        "mfa.gov.by",
+        "international.gc.ca",
+        "gmail.com",
+        "gmail.com",
+        "mfa.is",
+        "washington.mfa.gov.il",
+        "llv.li",
+        "monacodc.org",
+        "verizon.net",
+        "mfa.no",
+        "bluewin.ch",
+        "gmail.com",
+        "serbiaembusa.org",
+        "eda.admin.ch",
+        "mofa.gov.tw",
+        "mfa.gov.tr",
+        "fcdo.gov.uk",
+        "holyseemission.org"
+      ],
+      "attachments": [
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-08.txt",
+      "redacted_eml": "government-08.eml"
+    },
+    {
+      "id": "government-09",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 22:21:50 -0500",
+      "subject": "A Gift to Europe's People, Not Its Bureaucracy — EMELIA, FLORA, and ABEL",
+      "message_id": "<d9500818-8548-4a84-82bb-871222b0f8e7@mailbox.org>",
+      "source_eml_sha256": "61692bc98b251a72c00c767fbfa7e5fb3ca2b794742ea258de542a981fe87295",
+      "source_bytes": 963414,
+      "recipient_entries": 20,
+      "recipient_domains": [
+        "bmeia.gv.at",
+        "diplobel.fed.be",
+        "mfa.bg",
+        "mvep.hr",
+        "mfa.gov.cy",
+        "mzv.gov.cz",
+        "um.dk",
+        "mfa.ee",
+        "gov.fi",
+        "mfa.gr",
+        "mfa.gov.hu",
+        "esteri.it",
+        "mfa.gov.lv",
+        "usa.mfa.lt",
+        "mae.etat.lu",
+        "msz.gov.pl",
+        "mne.pt",
+        "mae.ro",
+        "mzv.sk",
+        "gov.si"
+      ],
+      "attachments": [
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-09.txt",
+      "redacted_eml": "government-09.eml"
+    },
+    {
+      "id": "government-10",
+      "category": "outbound government/research outreach",
+      "date_header": "Thu, 22 Oct 2026 23:16:53 -0500",
+      "subject": "An International Gift and a Challenge to Institutional Power — EMELIA, FLORA, and ABEL",
+      "message_id": "<3cead229-9667-4e90-9795-4fc58cb30f64@mailbox.org>",
+      "source_eml_sha256": "e345407cdca81d7a6c5bf6fb38a6519ccbd9ccba2fc83c94d9a2cb017e8ee347",
+      "source_bytes": 1024640,
+      "recipient_entries": 20,
+      "recipient_domains": [
+        "diplomatie.gouv.fr",
+        "diplo.de",
+        "dfa.ie",
+        "gov.mt",
+        "minbuza.nl",
+        "maec.es",
+        "gov.se",
+        "mfa.gov.al",
+        "bhembassy.org",
+        "mfa.gov.ge",
+        "rks-gov.net",
+        "mfa.gov.md",
+        "mfa.gov.me",
+        "mfa.gov.mk",
+        "mfa.gov.ua",
+        "mofa.gov.sa",
+        "sar-un.org",
+        "yemenembassy.org",
+        "bluewin.ch",
+        "international.gc.ca"
+      ],
+      "attachments": [
+        {
+          "filename": "EMELIA_Final_SymV.odt",
+          "bytes": 146677,
+          "sha256": "127bca746344494b7421baed110ad7e894bd8b3531ff91e110018d4aa5dce367",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "ABEL_v19.1.md",
+          "bytes": 211034,
+          "sha256": "d95b6b478f647a130f4318ac9a8de4f25c8ca9208dd09b755778ec12abb01e9d",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "FLORA_v2_Privacy_Strengthened.odt",
+          "bytes": 335821,
+          "sha256": "232440e2eb2515a94ab0f68ca92cacb6985e7857cadedc7b392d3baa6383b117",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "government-10.txt",
+      "redacted_eml": "government-10.eml"
+    },
+    {
+      "id": "user-formal-complaint",
+      "category": "support correspondence",
+      "date_header": "Fri, 23 Oct 2026 18:10:30 -0500",
+      "subject": "Formal complaint — SMTP and webmail sending failures, ticket #8786284, urgent log-preservation request",
+      "message_id": "<355ed3d5-75a6-448b-aa4f-e5a7ba49025c@icloud.com>",
+      "source_eml_sha256": "ec15860d3b888bfe427429ce8c8096881f2d0db8e1a1ebbe0c939896aac18778",
+      "source_bytes": 15087,
+      "recipient_entries": 1,
+      "recipient_domains": [
+        "heinlein-support.de"
+      ],
+      "attachments": [],
+      "text": "user-formal-complaint.txt",
+      "redacted_eml": "user-formal-complaint.eml"
+    },
+    {
+      "id": "support-acknowledgment",
+      "category": "support correspondence",
+      "date_header": "Fri, 23 Oct 2026 17:59:08 +0000",
+      "subject": "Ihre Anfrage / Your Inquiry Ihre Anfrage - Active account cannot send — 554 5.7.1 Relay access denied mailbox-[...] [Ticket#8788238]",
+      "message_id": "<20261023175907.89613.3b3a6980-c675-4c55-950a-0ee1a52df355@support.mailbox.org>",
+      "source_eml_sha256": "97f996a2799bcfb2dcba0731249b73ce1bf3e0b5229d23be24fd011d7f0c799f",
+      "source_bytes": 11567,
+      "recipient_entries": 1,
+      "recipient_domains": [
+        "mailbox.org"
+      ],
+      "attachments": [
+        {
+          "filename": null,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "signature.asc",
+          "bytes": 505,
+          "sha256": "6c7967d0bbd1d81d00d724c3ae0916f410195e6a15e73cd0d0bc18c548c56373",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "support-acknowledgment.txt",
+      "redacted_eml": "support-acknowledgment.eml"
+    },
+    {
+      "id": "forum-spam-notification",
+      "category": "forum notification",
+      "date_header": "Mon, 26 Oct 2026 10:39:14 +0000",
+      "subject": "New Comment in \"Active LIGHT plan until 2027-10-30, but sending blocked as an unpaid trial (554 5.7.1)\"",
+      "message_id": "<20261026103914.3674783.1842424189.swift@userforum-en.mailbox.org>",
+      "source_eml_sha256": "ab6d09ab231c6075588e377c84353e857b513523a553040ef014acbf34eac212",
+      "source_bytes": 17272,
+      "recipient_entries": 1,
+      "recipient_domains": [
+        "mailbox.org"
+      ],
+      "attachments": [
+        {
+          "filename": "signature.asc",
+          "bytes": 857,
+          "sha256": "1e5824c2a783bfa2288c388ae2bb04b41f24ce6632bd9c43673800613f83f963",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "forum-spam-notification.txt",
+      "redacted_eml": "forum-spam-notification.eml"
+    },
+    {
+      "id": "user-blocked-followup",
+      "category": "support correspondence",
+      "date_header": "Fri, 23 Oct 2026 13:03:05 -0500",
+      "subject": "Re: Ihre Anfrage - Blocked [Ticket#8786284]",
+      "message_id": "<2BF70813-D24C-4DBB-A883-4CA309F39213@icloud.com>",
+      "source_eml_sha256": "c199511f46740009bed4ca3ed7465cc46c8790b5f00280dd16a7dd82c225a1a1",
+      "source_bytes": 4750331,
+      "recipient_entries": 1,
+      "recipient_domains": [
+        "mailbox.org"
+      ],
+      "attachments": [],
+      "text": "user-blocked-followup.txt",
+      "redacted_eml": "user-blocked-followup.eml"
+    },
+    {
+      "id": "support-account-disabled",
+      "category": "support restriction decision",
+      "date_header": "Mon, 26 Oct 2026 09:34:16 +0000",
+      "subject": "RE: Ihre Anfrage - Hacked account [Ticket#8786284]",
+      "message_id": "<20261026093413.87618.c2d9fac4-b2ec-4180-8eb8-db1d9383814f@support.mailbox.org>",
+      "source_eml_sha256": "a765d17ccd4717f9c200f4e29dbc1af69cee955b2a48e2901d58381cea5b3cf7",
+      "source_bytes": 1021726,
+      "recipient_entries": 1,
+      "recipient_domains": [
+        "icloud.com"
+      ],
+      "attachments": [
+        {
+          "filename": null,
+          "bytes": 0,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "public_copy": "omitted; originals retained locally"
+        },
+        {
+          "filename": "signature.asc",
+          "bytes": 505,
+          "sha256": "4ff47c711d0f2333fb8cce73f5976e312ccbc5b7d0a97dbd7995e57c124ec314",
+          "public_copy": "omitted; originals retained locally"
+        }
+      ],
+      "text": "support-account-disabled.txt",
+      "redacted_eml": "support-account-disabled.eml"
+    }
+  ]
+}

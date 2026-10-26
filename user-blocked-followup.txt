@@ -1,0 +1,75 @@
+PUBLIC REDACTED DERIVATIVE — not the original EML
+Original SHA-256: c199511f46740009bed4ca3ed7465cc46c8790b5f00280dd16a7dd82c225a1a1
+Date: Fri, 23 Oct 2026 13:03:05 -0500
+Subject: Re: Ihre Anfrage - Blocked [Ticket#8786284]
+Message-ID: <2BF70813-D24C-4DBB-A883-4CA309F39213@icloud.com>
+Recipient entries: 1
+Recipient domains: mailbox.org
+
+Private addresses, routing/authentication headers and URL queries are omitted. Attachments are listed in evidence-ledger.json, not embedded. Body text follows; statements within it are those of its original author.
+
+﻿
+Ihre please help. 
+
+My account, [address at mailbox.org redacted], shows an active contract. Webmail login succeeds, but sending through webmail fails with:
+554 5.7.1 <[address at delaware.gov redacted]>: Relay access denied
+Thunderbird also reports an SMTP login failure. Its settings are smtp.mailbox.org, port 465, SSL/TLS. A separate unauthenticated connection test on October 23, 2026 successfully established TLS 1.3, verified the server certificate, and received an SMTP 250 response.
+Please check my account’s external-sending authorization, contract-status synchronization, and any sending restriction. Identify the reason, activation timestamp, and whether it was applied automatically or manually. Please preserve the relevant SMTP and account-status logs and restore sending if the restriction is erroneous.
+
+Considering I am actively investigating the attempt to weaponize synthetic intelligence and U.S. institutional rampancy, I would appreciate a fast resolution.
+
+Sent from my iPhone
+
+On Oct 8, 2026, at 7:43 AM, [address at mailbox.org redacted] wrote:
+
+﻿
+
+  
+    
+    
+    
+  
+  
+Hello,
+
+thank you for your update.
+
+I'm glad to hear that you can access your account again.
+
+As requested, I will now close this ticket. Should you experience any further issues, please feel free to contact us again.
+
+I wish you all the best and a pleasant day.
+
+-- 
+
+Mit freundlichen Grüßen - with kind regards
+
+
+Pascal
+
+mailbox Support
+
+mailbox
+
+
+
+Heinlein Hosting GmbH
+
+                                                        Schwedter Str. 9a, 10119 Berlin
+
+
+https://mailbox.org
+
+                                                    
+
+                                                    
+
+                                                        Amtsgericht Berlin-Charlottenburg - HRB 225352 B
+
+                                                        Geschäftsführer: Peer Heinlein - Sitz: Berlin
+
+
+
+
+
+<signature.asc>

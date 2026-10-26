@@ -1,0 +1,11 @@
+Exact reported rejection; only the external recipient address is redacted.
+The introductory user words "new error:" are omitted.
+Original text SHA-256: 0e535ffe3e0fe652417e91164a5ce692c4f594b83d67b7f49d35750a78dacdd8
+
+Message could not be sent to the following recipients: "[external recipient redacted]" <[external recipient redacted]> (554 - 554-5.7.1 <[external recipient redacted]>: Relay access denied
+554-5.7.1 ******************
+554-5.7.1 Please note: To avoid misuse, unpaid test accounts may not send e-mails to external mail addresses.
+554-5.7.1 ******************
+554-5.7.1 Um Missbrauch zu vermeiden duerfen unbezahlte Test-Accounts keine E-Mails an externe Mailadressen versenden.
+554 5.7.1 ******************
+)

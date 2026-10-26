@@ -1,0 +1,149 @@
+Captured UTC: 2026-10-26T23:27:18.998Z
+Source: https://userforum-en.mailbox.org/topic/5771-active-light-plan-until-2027-10-30-but-sending-blocked-as-an-unpaid-trial-554-5-7-1
+
+Welcome to the mailbox user forum
+	
+Topics
+	
+Knowledge base
+	
+Support
+Nitsud R.
+New Topic
+mailbox user forumTopicProblemE-mail
+Properties
+Category
+E-mail
+Similar Topics
+After each login via the Web frontend, Thunderbird is blocked from access
+Spam Leading to Getting Blocked
+Notes - half of layout blocked by whitespace
+cannot receive SOME emails from gmail at my custom domain
+Can't add Google Drive to Storage Accounts
+Active LIGHT plan until 2027-10-30, but sending blocked as an unpaid trial (554 5.7.1)
+Nitsud Regnerps shared this problem 41 hours ago
+	
+Solved
+
+My mailbox.org contract page displays LIGHT, EUR 1.00/month, and “Active until 2027-10-30.” Yet webmail refused an external message with this explanation:
+
+The rejection below preserves the wording; only my external recipient address has been replaced with [external recipient redacted]:
+
+Message could not be sent to the following recipients: "[external recipient redacted]" <[external recipient redacted]> (554 - 554-5.7.1 <[external recipient redacted]>: Relay access denied
+554-5.7.1 ******************
+554-5.7.1 Please note: To avoid misuse, unpaid test accounts may not send e-mails to external mail addresses.
+554-5.7.1 ******************
+554-5.7.1 Um Missbrauch zu vermeiden duerfen unbezahlte Test-Accounts keine E-Mails an externe Mailadressen versenden.
+554 5.7.1 ******************
+)
+
+An active subscription and an unpaid-trial explanation are incompatible descriptions of the account's sending entitlement. This requires an account-level explanation and a working service, not another generic description of trial restrictions.
+
+WHAT I HAVE PRESERVED
+
+- October 23, 2026: Thunderbird showed a login failure for smtp.mailbox.org. A separate webmail attempt displayed 554 5.7.1 “Relay access denied.” Screenshot capture times were 12:40:58 and 12:49:34 America/Chicago (UTC-05:00), respectively. These are screenshot times, not server-log timestamps.
+- October 24, 2026: a subscription screenshot showed LIGHT active through October 30, 2027. The preserved attachment's filesystem time is 19:31 America/Chicago; that is not a server event time.
+- October 24, 2026: the later webmail screenshot, timestamped 20:04:17 America/Chicago in its filename, preserves the explicit unpaid-trial rejection. The desktop clock also shows October 24 at 8:04 PM. This test was addressed to my own external mailbox.
+- Original images and the complete English/German error text have been retained, with SHA-256 hashes. The published subscription image is unchanged. Personal recipient information and the webmail URL are omitted from this public error transcription.
+
+I identify these observations as concerning the same account. The subscription screenshot itself does not display the account address; support should verify the authenticated account and primary-address/alias mapping against its records.
+
+MAILBOX'S OWN DOCUMENTATION
+
+The official “Email sending limit for mailbox” article says the trial restriction is lifted once payment is received. It also expressly acknowledges that a paid account can receive “Relay access denied” for a different reason and directs that customer to support:
+https://kb.mailbox.org/en/private/e-mail/mailbox-mail-sending-limit/
+
+That distinction matters. If another restriction applied here, the explicit unpaid-trial wording was not an adequate explanation. The observed error does not establish which internal flag or rule actually caused it, and the separate Thunderbird login failure should not be assumed to have the same cause.
+
+WHAT THIS INTERRUPTED
+
+The October 23 screenshot shows an attempted message headed “Request for regulatory review — AtomBeam Technologies Inc. financial disclosures, CIK …”. Its intended recipients included the Massachusetts Securities Division, California Department of Financial Protection and Innovation, Delaware's Investor Protection office, the New York Attorney General's investor-complaints address, and Washington's Department of Financial Institutions, among other state regulatory offices. The rejection happened in mailbox.org webmail; it is not evidence that each recipient agency rejected the message.
+
+This correspondence sits within my broader independent work on proposed synthetic-intelligence and cognitive architectures, including EMELIA, ABEL and FLORA, and on C.H.I.L.D., a proposed child-protection framework. These are the public research records:
+
+EMELIA — A Non-Optimizing Developmental Intelligence Architecture:
+
+ABEL — Adversarial Binding through Encounter and Loss:
+
+FLORA — Fibonacci-Lattice Oscillatory Relational Architecture:
+
+C.H.I.L.D. — Comprehensive Harm Interdiction & Lifelong Defense:
+
+My OSF research profile:
+
+
+These links provide the research context and explain why reliable correspondence matters. The specific trigger for the sending restriction remains unknown and requires the provider's account and mail-server records.
+
+The stakes are practical: I need to communicate with public authorities and researchers, preserve a reliable correspondence trail, and receive meaningful answers. An unexplained sending restriction coupled with a contradictory account-status message obstructs that work.
+
+REQUEST FOR A TECHNICAL RESPONSE
+
+1. Confirm the account and alias mapping, payment activation, trial flag and outgoing-mail permission at the times of these failures.
+2. Explain exactly why an account displayed as active through October 2027 received the unpaid-trial rejection. If another restriction applied, identify its category and the reason for this wording.
+3. Restore external sending, or give the concrete remaining requirement and a resolution timetable.
+4. Preserve the relevant account-status changes, SMTP/webmail rejection events and decision logs, including timestamps and the responsible service or role. Private account details can be handled in support rather than published here.
+5. Provide an engineering or support case owner, and explain how the mismatch will be prevented from recurring.
+
+This has disrupted my research and complaint correspondence. A customer should not have to guess whether the subscription page or the mail server describes the account correctly. I am publishing the documented discrepancy so other users can recognize it and so any explanation or correction can be followed in this thread.
+
+Have other paying customers encountered this exact unpaid-trial message? Please describe the resolution without posting credentials or private logs.
+
+Subscription image SHA-256:
+86b1c8cb63595cc0b3e24f5d9496b8aeb569aea401b1df69141a25dc803befce
+
+A hash identifies the preserved bytes; it does not independently authenticate the server's internal state.
+
+---
+
+Note from mailbox moderator: Links removed for data security reasons
+
+Files: Subscription sc...
+1 The same problem 0  
+ 
+Stop Following
+Oldest
+Replies (1)
+ 1
+ mailbox Support ● 12 hours ago
+
+Hello.
+
+As this matter has already been addressed through our support channel, we won’t discuss the details of this individual case publicly.
+
+Sending spam via mailbox.org violates our Terms of Service, and we take appropriate action to enforce them.
+
+We’re closing this thread as further discussion here would not be productive.
+
+Thank you for your understanding.
+
+
+
+
+Kind regards
+
+Your mailbox Team
+
+---
+
+Useful links:
+
+Knowledge Base for Private Customers
+Knowledge Base for Business Customers
+
+URL
+
+Replies have been locked on this page!
+
+   
+
+Language
+
+Deutsch
+English
+Contact us
+Legal notice
+Terms and conditions
+Data protection
+Cancellation
+© 2026 mailbox
+Heinlein Gruppe

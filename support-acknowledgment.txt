@@ -1,0 +1,43 @@
+PUBLIC REDACTED DERIVATIVE — not the original EML
+Original SHA-256: 97f996a2799bcfb2dcba0731249b73ce1bf3e0b5229d23be24fd011d7f0c799f
+Date: Fri, 23 Oct 2026 17:59:08 +0000
+Subject: Ihre Anfrage / Your Inquiry Ihre Anfrage - Active account cannot send — 554 5.7.1 Relay access denied mailbox-[...] [Ticket#8788238]
+Message-ID: <20261023175907.89613.3b3a6980-c675-4c55-950a-0ee1a52df355@support.mailbox.org>
+Recipient entries: 1
+Recipient domains: mailbox.org
+
+Private addresses, routing/authentication headers and URL queries are omitted. Attachments are listed in evidence-ledger.json, not embedded. Body text follows; statements within it are those of its original author.
+
+English version below
+
+Sehr geehrte(r) Nitsud Regnerps,
+
+vielen Dank für Ihre Nachricht und Ihr Vertrauen in unseren Support.
+Wir werden Ihr Ticket#8788238 so schnell wie möglich bearbeiten.
+
+Gerne können Sie Ihre Frage auch in unserem Userforum stellen:
+https://userforum.mailbox.org/
+Dort unterstützen sich unsere Nutzerinnen und Nutzer gegenseitig, und auch unser Support-Team liest mit und beantwortet dringende Fragen so zeitnah wie möglich.
+
+Mit freundlichen Grüßen
+
+Ihr mailbox Team
+
+--
+
+Dear Nitsud Regnerps,
+
+Thank you for your message and your trust in our support team.
+
+We will process your Ticket#8788238 as quickly as possible.
+
+You are also welcome to post your question in our user forum:
+[1] https://userforum.mailbox.org/
+
+There, our users support each other, and our support team also reads the forum and answers urgent questions as quickly as possible.
+
+Best regards,
+
+Your mailbox team
+
+[1] https://userforum.mailbox.org/

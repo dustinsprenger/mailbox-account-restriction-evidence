@@ -1,0 +1,25 @@
+PUBLIC REDACTED DERIVATIVE — not the original EML
+Original SHA-256: ab6d09ab231c6075588e377c84353e857b513523a553040ef014acbf34eac212
+Date: Mon, 26 Oct 2026 10:39:14 +0000
+Subject: New Comment in "Active LIGHT plan until 2027-10-30, but sending blocked as an unpaid trial (554 5.7.1)"
+Message-ID: <20261026103914.3674783.1842424189.swift@userforum-en.mailbox.org>
+Recipient entries: 1
+Recipient domains: mailbox.org
+
+Private addresses, routing/authentication headers and URL queries are omitted. Attachments are listed in evidence-ledger.json, not embedded. Body text follows; statements within it are those of its original author.
+
+New Comment        
+Active LIGHT plan until 2027-10-30, but sending blocked as an unpaid trial (554 5.7.1)
+mailbox Support
+Hello.
+As this matter has already been addressed through our support channel, we won’t discuss the details of this individual case publicly. 
+Sending spam via mailbox.org violates our Terms of Service, and we take appropriate action to enforce them. 
+We’re closing this thread as further discussion here would not be productive.
+Thank you for your understanding. 
+Kind regards 
+Your mailbox Team 
+--- 
+Useful links: 
+Knowledge Base for Private CustomersKnowledge Base for Business Customers
+OPEN COMMENT IN BROWSER                                                
+Stop receiving notifications about this problem

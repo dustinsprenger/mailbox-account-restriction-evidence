@@ -1,0 +1,11 @@
+PUBLICATION METHOD — 26 October 2026
+
+Original files remain unchanged in the private source archive. SHA-256 hashes of original EML files, decoded attachments and published derivatives are recorded. A hash identifies bytes; it is not independent authentication of the original sender, server state, capture time or delivery.
+
+The subscription PNG is an exact byte-for-byte copy. The earlier forum text is an exact copy of the locally preserved published-text record. The later screenshot is an unedited browser capture. The later text is rendered document.body.innerText plus capture time and source URL; it is not a raw page archive and does not include hidden attributes or session-linked URLs.
+
+Public EML files are newly constructed derivatives. From/To fields use example.invalid placeholders. Original Date, Subject and Message-ID identifiers are retained and labeled. All transport, Received, authentication, DKIM, MIME attachment and other original headers are omitted. Body text is selected from the original plain-text part or extracted from HTML with markup removed. Paragraph whitespace may be normalized. Private email addresses become domain-only redaction markers; URL query strings/fragments, IPv4 addresses and the author's street/telephone are removed when encountered. Quoted third-party statements are preserved as source content, not endorsed findings.
+
+Attachments are not embedded in public EMLs. Their original filenames, sizes and SHA-256 hashes are listed in evidence-ledger.json. The research papers are linked through their OSF records rather than duplicated here. Original EMLs and attachments are retained locally for any appropriately scoped verification.
+
+SHA256SUMS.txt covers every other public file, not itself. The original-text hash and recipient-only redaction are documented separately in rejection-exact-redacted.txt. No substantive email body has been rewritten to strengthen the allegations. Any corrections should be committed as visible revisions rather than silently replacing the evidence.

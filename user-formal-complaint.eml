@@ -1,0 +1,149 @@
+From: Redacted source <redacted@example.invalid>
+To: Redacted recipients <redacted@example.invalid>
+Date: Fri, 23 Oct 2026 18:10:30 -0500
+Subject: [PUBLIC REDACTED COPY] Formal complaint =?utf-8?b?4oCU?= SMTP and
+ webmail sending failures, ticket #8786284, urgent log-preservation request
+X-Original-Message-ID: <355ed3d5-75a6-448b-aa4f-e5a7ba49025c@icloud.com>
+X-Original-EML-SHA256:
+ ec15860d3b888bfe427429ce8c8096881f2d0db8e1a1ebbe0c939896aac18778
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+PUBLIC REDACTED DERIVATIVE =E2=80=94 not the original EML
+Original SHA-256: ec15860d3b888bfe427429ce8c8096881f2d0db8e1a1ebbe0c939896aac=
+18778
+Date: Fri, 23 Oct 2026 18:10:30 -0500
+Subject: Formal complaint =E2=80=94 SMTP and webmail sending failures, ticket=
+ #8786284, urgent log-preservation request
+Message-ID: <355ed3d5-75a6-448b-aa4f-e5a7ba49025c@icloud.com>
+Recipient entries: 1
+Recipient domains: heinlein-support.de
+
+Private addresses, routing/authentication headers and URL queries are omitted=
+. Attachments are listed in evidence-ledger.json, not embedded. Body text fol=
+lows; statements within it are those of its original author.
+
+Dear mailbox Support and Heinlein Hosting Management,
+
+I am requesting a manual investigation into the sending failures=20
+affecting [address at mailbox.org redacted] <mailto:[address at mailbox.org r=
+edacted]>,=20
+including correspondence sent using [address at mailbox.org redacted]=20
+<mailto:[address at mailbox.org redacted]>.
+
+My account shows an active contract, and I can log into webmail.=20
+Nevertheless, sending has failed through both Thunderbird and your own=20
+webmail interface. I previously reported this in an email sent on=20
+*October 23, 2026, at 13:03:05 CDT / 18:03:05 UTC*, under ticket=20
+*#8786284*. Please associate this complaint with that correspondence.
+
+The preserved evidence establishes the following:
+
+  *
+
+    *October 23, 2026, 12:40:58 CDT / 17:40:58 UTC:*A Thunderbird
+    screenshot records the exact message:
+    =E2=80=9CLogin to server smtp.mailbox.org with username
+    [address at mailbox.org redacted] <mailto:[address at mailbox.org redacte=
+d]>failed.=E2=80=9D
+
+  *
+
+    *October 23, 2026, 12:46:45.204189 CDT / 17:46:45.204189 UTC:*A
+    diagnostic test began against smtp.mailbox.org, port 465. It
+    successfully established TLS 1.3, verified the server certificate
+    and received SMTP EHLO response code 250. This test did not attempt
+    authentication or submit an email.
+
+  *
+
+    *October 23, 2026, 12:49:34 CDT / 17:49:34 UTC:*A webmail screenshot
+    records =E2=80=9CMessage could not be sent to the following recipients,=
+=E2=80=9D
+    followed by the recipient list and this exact error:
+    =E2=80=9C554 - 554-5.7.1 [address at delaware.gov redacted]
+    <mailto:[address at delaware.gov redacted]>: Relay access denied=E2=80=9D
+
+The screenshot timestamps identify when the errors were captured. Please=20
+use your server records to establish the underlying request and=20
+rejection timestamps.
+
+The preserved Thunderbird configuration specifies smtp.mailbox.org, port=20
+465, SSL/TLS and normal-password authentication, with=20
+[address at mailbox.org redacted] <mailto:[address at mailbox.org redacted]>a=
+s the login=20
+and [address at mailbox.org redacted] <mailto:[address at mailbox.org redacte=
+d]>as the=20
+sender identity. Please verify the account=E2=80=99s sending authorization an=
+d=20
+that sender=E2=80=99s permissions.
+
+I conduct research into synthetic-life architectures, including EMELIA=20
+and the proposed C.H.I.L.D. child-protection framework, alongside=20
+investigations into intellectual-property provenance, research=20
+discoverability and platform decisions affecting my publications. This=20
+work requires correspondence with research repositories, technology=20
+providers and public agencies. Reliable email is essential for=20
+submitting evidence, receiving responses, maintaining an auditable=20
+record and meeting correspondence deadlines. These failures are=20
+disrupting that work.
+
+Please address each of the following:
+
+ 1.
+
+    *Identify the cause and scope.*Is there an account-wide sending
+    restriction, a sender-identity restriction, an authentication
+    problem, a contract-activation issue or another rejection condition?
+    State the recorded trigger and reason. Explain whether recipient
+    count, sending volume, message characteristics, network reputation
+    or another factor contributed, if your records establish that.
+
+ 2.
+
+    *Identify when and how any restriction was applied.*Provide its
+    activation timestamp and timezone, whether it was automated or
+    manually imposed, and the responsible system or operational role.
+    Explain whether the SMTP login failure and webmail relay denial
+    share a cause.
+
+ 3.
+
+    *Conduct a manual review.*Have an authorized staff member inspect
+    the relevant account controls and rejection records. Correct any
+    erroneous restriction and confirm restoration of sending. If a
+    restriction is justified, identify the applicable policy and the
+    concrete steps required to resolve it.
+
+ 4.
+
+    *Preserve the evidence immediately.*Please preserve the relevant
+    SMTP authentication and relay logs, rejection and filtering records,
+    account-status and contract-activation history, sender-authorization
+    changes, administrative actions and support correspondence. Include
+    the October 23 failures, any earlier event that initiated the
+    condition and subsequent review or changes. Your published retention
+    policy <https://mailbox.org/en/data-protection/>specifies seven days
+    for SMTP logs; please prevent relevant existing records from
+    expiring while this complaint is investigated.
+
+ 5.
+
+    *Provide a written explanation supported by the records.*If relevant
+    records are unavailable, specify whether they were never created,
+    deleted under retention rules, not located or withheld. Provide the
+    relevant dates and reason.
+
+A generic password-reset instruction would leave the webmail relay=20
+denial unexplained. Please investigate both failures and address the=20
+evidence supplied. I have sent this complaint to Ihre from a review=20
+support request.
+
+Please acknowledge receipt and confirm the preservation action within=20
+*two business days*. Provide a substantive response within *seven=20
+calendar days*, or identify the responsible case owner and give a dated=20
+investigation timetable.
+
+Regards,
+Dustin Sprenger
