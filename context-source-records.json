@@ -1,0 +1,172 @@
+{
+  "checked_utc": "2026-10-26T23:37:12.256445+00:00",
+  "note": "Source HTML and full historical text remain in the local evidence archive. This public ledger supplies URLs, archived locations and byte hashes. It does not prove a Runbox-CERN integration or a cause of the mailbox restriction.",
+  "sources": [
+    {
+      "id": "S12",
+      "description": "Apple iCloud terms / Sept 14, 2026",
+      "source_url": "https://www.apple.com/legal/internet-services/icloud/us-en/terms.html",
+      "source_kind": "Original HTTP body plus derived text",
+      "files": [
+        {
+          "name": "S12-apple-current.html.gz",
+          "bytes": 46973,
+          "sha256": "22f99332366c8517bfcd7ffbdd049e92eb909d106e66632ef9d17878a25fe4ea",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S12-apple-current.txt",
+          "bytes": 72529,
+          "sha256": "1bd24f9d3029ecb3fac73dc453d0c81d4bac4e36de6d96168b9fca2e9f5d3442",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S12-apple-current.receipt.json",
+          "bytes": 1022,
+          "sha256": "abfba11eb9f5345627cfa1cf202bd21a355e1191da49c3ed6bf3cf5ef42a41e3",
+          "existing_manifest_match": true
+        }
+      ]
+    },
+    {
+      "id": "S15",
+      "description": "Apple Sept 2025 terms / archived Aug 29, 2026",
+      "source_url": "https://web.archive.org/web/20260829175847/https://www.apple.com/legal/internet-services/icloud/us-en/terms.html",
+      "source_kind": "Archived Apple HTTP response; gzip wire body plus decoded HTML and text",
+      "files": [
+        {
+          "name": "S15-apple-aug-replay.html.gz",
+          "bytes": 46634,
+          "sha256": "345604fc743a7602d23fa8376af194eaebebf1fceaed94097fc21f2d534c1fc9",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S15-apple-aug-replay.txt",
+          "bytes": 68101,
+          "sha256": "c7cada8fcfcf59bda7b87eb61a3fd9024d7bdb233f890c919a440fb94c249f18",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S15-apple-aug-replay.receipt.json",
+          "bytes": 4240,
+          "sha256": "a94b84a4bdf41a01deb7f43543b633f4f98cdc1bd306063933b8779fd8367fcd",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S15-apple-aug-replay.decoded.html.gz",
+          "bytes": 46431,
+          "sha256": "7047466f9a9d3386d136c48227b5ce46f149bca79e9c732bbe094e76996ad20b",
+          "existing_manifest_match": true
+        }
+      ]
+    },
+    {
+      "id": "S24",
+      "description": "Boxy older privacy notice / archived May 19, 2026",
+      "source_url": "https://web.archive.org/web/20260519040313/https://boxy.runbox.com/boxy-privacy.html",
+      "source_kind": "Historical official notice, Wayback standard replay with archive wrapper; policy extracted separately",
+      "files": [
+        {
+          "name": "S24-runbox-boxy-may-replay.html.gz",
+          "bytes": 6152,
+          "sha256": "8e8d8c1fc8ba05dcf4ecf0a39a19d82d4243ebcf999c8ff5a4e85296fc23b24b",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S24-runbox-boxy-may-replay.txt",
+          "bytes": 5621,
+          "sha256": "a699045b8e938e46d49a0fcf3c071ae4f9e7aec8ff3b9513ca4a2820c020a131",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S24-runbox-boxy-may-replay.receipt.json",
+          "bytes": 3517,
+          "sha256": "2bac7571a47850d48f6cb5d8efe04d6a3ac892d1b3cf92370e4f5b42ba4fc069",
+          "existing_manifest_match": true
+        }
+      ]
+    },
+    {
+      "id": "S25",
+      "description": "Boxy privacy notice / retrieved October 25, 2026",
+      "source_url": "https://boxy.runbox.com/boxy-privacy.html",
+      "source_kind": "Current official chatbot notice; Last-Modified is not a verified first-change date",
+      "files": [
+        {
+          "name": "S25-runbox-boxy-policy.html.gz",
+          "bytes": 4864,
+          "sha256": "1be887f83b6784d530252f71c8a844a4ab9d64635cdfdc8240cde7607d7c3e37",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S25-runbox-boxy-policy.txt",
+          "bytes": 6775,
+          "sha256": "b0063c19f919d00cb98fac63007fb6311d2f449937faf4457c7a3672d20002d2",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S25-runbox-boxy-policy.receipt.json",
+          "bytes": 730,
+          "sha256": "df389e59221a307855d9e382cb794d207adb1a6f2e7ffae9f0aaa7d951d3c1a0",
+          "existing_manifest_match": true
+        }
+      ]
+    },
+    {
+      "id": "S26",
+      "description": "Runbox general AI policy / October 8, 2026",
+      "source_url": "https://runbox.com/about/runbox-generative-ai-policy/",
+      "source_kind": "Original HTTP body plus derived text",
+      "files": [
+        {
+          "name": "S26-runbox-ai-current.html.gz",
+          "bytes": 31549,
+          "sha256": "5662d2b84eebc122e4634b1ac2b79be3b3951ad9b2e21e004b746c3235c8caba",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S26-runbox-ai-current.txt",
+          "bytes": 5179,
+          "sha256": "ffa96c1dcdbf4750d3d0ce3072bc6f67b8fce665af122a8e9717cf47c067cde7",
+          "existing_manifest_match": true
+        },
+        {
+          "name": "S26-runbox-ai-current.receipt.json",
+          "bytes": 1131,
+          "sha256": "5ce8d93541c37c231df53b09d573eaad400c682077d83cb748ff0e3f01315d43",
+          "existing_manifest_match": true
+        }
+      ]
+    },
+    {
+      "id": "current-boxy",
+      "source_url": "https://boxy.runbox.com/boxy-privacy.html",
+      "retrieved_utc": "2026-10-26T23:35:39.705550+00:00",
+      "status": 200,
+      "final_url": "https://boxy.runbox.com/boxy-privacy.html",
+      "content_type": "text/html",
+      "sha256": "8ab73095ca6bd438061a073d17dabb6dbcd5f128d241566a1ce5825a6686b6e7",
+      "bytes": 17528
+    },
+    {
+      "id": "current-runbox-ai",
+      "source_url": "https://runbox.com/about/runbox-generative-ai-policy/",
+      "retrieved_utc": "2026-10-26T23:35:39.706007+00:00",
+      "status": 200,
+      "final_url": "https://runbox.com/about/runbox-generative-ai-policy/",
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "d84b389a38a740da3108c5a5d1356a0e1419abca2cad8dfdda7d87c85711bee1",
+      "bytes": 160588
+    },
+    {
+      "id": "current-cern-mistral",
+      "source_url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "retrieved_utc": "2026-10-26T23:35:39.706293+00:00",
+      "status": 200,
+      "final_url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "content_type": "text/html",
+      "sha256": "4d6d53e260671d36acd474cad86f2ee0fda7517cf6d12e66551c1c8311e200fe",
+      "bytes": 244423
+    }
+  ]
+}

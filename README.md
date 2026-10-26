@@ -105,6 +105,10 @@ I am an independent researcher whose work includes proposed child-protection inf
 
 This record will remain available independently of the forum. A documented explanation or correction will be added with its date. The evidence justifies demanding an answer; it does not justify inventing the cause.
 
+## Additional policy context and unanswered questions
+
+[Apple terms and the Runbox–Mistral–CERN connection](CONTEXT-APPLE-RUNBOX.md) documents Apple’s revised storage/access clauses, a change in Runbox Boxy logging, and Mistral’s separate CERN partnership. It identifies the source dates and limits of each claim. The evidence supports an indirect supplier connection, not a direct Runbox–CERN integration or proof that these matters caused this sending restriction.
+
 ## Preservation and privacy
 
 [Preservation and redaction method](PRESERVATION.txt) · [SHA-256 manifest](SHA256SUMS.txt)
