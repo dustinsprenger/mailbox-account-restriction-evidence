@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "verified_at_utc": "2026-10-27T00:08:59.127438+00:00",
+  "scope": "Two published mailbox.org documents: historical Wayback captures compared with official-page captures retrieved on 2026-10-25. This is not a fresh retrieval of the live policy on 2026-10-26.",
+  "comparisons": [
+    {
+      "id": "privacy_notice",
+      "document": "Data protection notice",
+      "finding": "Preserved extracted policy bodies are byte-for-byte identical at these two observations.",
+      "policy_text_equal": true,
+      "extraction": {
+        "input": "Preserved UTF-8 page-text extraction",
+        "start_inclusive": "Data Protection Notice in accordance",
+        "end_exclusive": "The company",
+        "operation": "Exact substring from the first start marker through immediately before the following footer marker; no additional whitespace normalization or sentence omission."
+      },
+      "versions": [
+        {
+          "version": "archived",
+          "source_record_id": "S31-mailbox-privacy-june-exact",
+          "url": "https://web.archive.org/web/20260615050825id_/https://mailbox.org/en/data-protection/",
+          "readable_url": "https://web.archive.org/web/20260615050825/https://mailbox.org/en/data-protection/",
+          "archive_capture_utc": "2026-06-15T05:08:25Z",
+          "archive_memento_datetime": "Mon, 15 Jun 2026 05:08:25 GMT",
+          "retrieved_at_utc": "2026-10-25T17:26:18.997653+00:00",
+          "http_status": 200,
+          "http_response_body_bytes": 93116,
+          "http_response_body_sha256": "e7383d271793098bf7ba3cc756df3ca5fedb172ef09aaeffd4ff4a8f6d912238",
+          "decoded_html_bytes": 93116,
+          "decoded_html_sha256": "e7383d271793098bf7ba3cc756df3ca5fedb172ef09aaeffd4ff4a8f6d912238",
+          "preserved_page_text_sha256": "77953be00e218bc18c558725b85efb321fb908d5689944622cbe230c3a671d85",
+          "policy_body_bytes": 38942,
+          "policy_body_words": 6243,
+          "policy_body_sha256": "124dd7affa86498b9b6672a4e08efe8a50e50f02570255eec797519f7c93b185",
+          "local_receipt_sha256": "954b6928de49b079cfd1350190fffa0ad29816f3a2b0cc2a0c0e0203ab89ed0f"
+        },
+        {
+          "version": "retrieved_2026-10-25",
+          "source_record_id": "S32-mailbox-privacy-current",
+          "url": "https://mailbox.org/en/data-protection/",
+          "readable_url": "https://mailbox.org/en/data-protection/",
+          "archive_capture_utc": null,
+          "archive_memento_datetime": null,
+          "retrieved_at_utc": "2026-10-25T17:23:48.110473+00:00",
+          "http_status": 200,
+          "http_response_body_bytes": 92856,
+          "http_response_body_sha256": "b0fdc49784cb46c2c5653e19978ab618c0bde4650e258ef3b17d7db1e30987b6",
+          "decoded_html_bytes": 92856,
+          "decoded_html_sha256": "b0fdc49784cb46c2c5653e19978ab618c0bde4650e258ef3b17d7db1e30987b6",
+          "preserved_page_text_sha256": "1ad5e1ed37addfcf8b698408ef557fe2e1a628557239e3aa29ebee97082be18b",
+          "policy_body_bytes": 38942,
+          "policy_body_words": 6243,
+          "policy_body_sha256": "124dd7affa86498b9b6672a4e08efe8a50e50f02570255eec797519f7c93b185",
+          "local_receipt_sha256": "7e2ef73ae2c0d784d7d7b2f2a7010c2d2be5710a7784c0ee2cee64da2ffd690d"
+        }
+      ]
+    },
+    {
+      "id": "general_terms",
+      "document": "General terms and cancellation policy",
+      "finding": "Preserved extracted policy bodies are byte-for-byte identical at these two observations.",
+      "policy_text_equal": true,
+      "extraction": {
+        "input": "Preserved UTF-8 page-text extraction",
+        "start_inclusive": "Note for private customers",
+        "end_exclusive": "The company",
+        "operation": "Exact substring from the first start marker through immediately before the following footer marker; no additional whitespace normalization or sentence omission."
+      },
+      "versions": [
+        {
+          "version": "archived",
+          "source_record_id": "S35-mailbox-terms-aug-exact",
+          "url": "https://web.archive.org/web/20260827114942id_/https://mailbox.org/en/t-cs-cancellation-policy/",
+          "readable_url": "https://web.archive.org/web/20260827114942/https://mailbox.org/en/t-cs-cancellation-policy/",
+          "archive_capture_utc": "2026-08-27T11:49:42Z",
+          "archive_memento_datetime": "Thu, 27 Aug 2026 11:49:42 GMT",
+          "retrieved_at_utc": "2026-10-25T17:27:38.757945+00:00",
+          "http_status": 200,
+          "http_response_body_bytes": 17017,
+          "http_response_body_sha256": "6b56a5bbf9ea4c22d840e5bce3315adba4c1809f200020b7e08bceee325ac073",
+          "decoded_html_bytes": 87386,
+          "decoded_html_sha256": "0faeda302ab5d8a2064658213d1ba7812260feff95ac155ef437d25042e0611e",
+          "preserved_page_text_sha256": "e931ee3bfab733949071782bfde79f3f447d083b1018f74aeadff35ec501f7b4",
+          "policy_body_bytes": 32951,
+          "policy_body_words": 5464,
+          "policy_body_sha256": "7ea05a18f93ab00f98e425f6b1766244e10496b4cf65e86c923aabb40b7351b3",
+          "local_receipt_sha256": "221bd64b58592edb5fd71229c4af097983824347bc86c4a1cfec020215436c39"
+        },
+        {
+          "version": "retrieved_2026-10-25",
+          "source_record_id": "S33-mailbox-terms-current",
+          "url": "https://mailbox.org/en/t-cs-cancellation-policy/",
+          "readable_url": "https://mailbox.org/en/t-cs-cancellation-policy/",
+          "archive_capture_utc": null,
+          "archive_memento_datetime": null,
+          "retrieved_at_utc": "2026-10-25T17:24:24.278499+00:00",
+          "http_status": 200,
+          "http_response_body_bytes": 87078,
+          "http_response_body_sha256": "756b5ff51fb04608b68236a8193d133f32f8e3c277ef6b1c65712227b456970f",
+          "decoded_html_bytes": 87078,
+          "decoded_html_sha256": "756b5ff51fb04608b68236a8193d133f32f8e3c277ef6b1c65712227b456970f",
+          "preserved_page_text_sha256": "7d98b59de658a4b06d56333a748ac8d8afb3d9ca6ef1bca3e13df5029e13aba8",
+          "policy_body_bytes": 32951,
+          "policy_body_words": 5464,
+          "policy_body_sha256": "7ea05a18f93ab00f98e425f6b1766244e10496b4cf65e86c923aabb40b7351b3",
+          "local_receipt_sha256": "59acb13fb963d73dbacf8941af9e5a01f99bdf21e4474f7e05cb02ce94f637af"
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Equality concerns extracted policy bodies; full HTML response hashes differ.",
+    "Capture and retrieval dates are observations, not legal effective dates. The privacy body in both captures says As of: 27th January 2026.",
+    "Matching endpoints do not prove uninterrupted sameness between captures, unchanged server practices, unchanged related documents, or unchanged enforcement.",
+    "These texts do not explain this account restriction, establish which emails were classified as spam, or explain the active-plan/unpaid-trial mismatch.",
+    "Source pages, raw response bodies, extracted text and original receipts remain unchanged in the local policy dossier. Public fields omit archive cookies and other irrelevant response metadata.",
+    "SHA-256 verifies preserved bytes; it does not independently authenticate historical policy publication or any individual enforcement decision."
+  ],
+  "hash_definitions": {
+    "http_response_body_sha256": "Original response-body bytes as preserved, before Content-Encoding decoding. Local .html.gz storage is a separate wrapper and is not the object identified by this field.",
+    "decoded_html_sha256": "HTML after decoding the preserved response Content-Encoding.",
+    "policy_body_sha256": "Exact UTF-8 policy-body slice from the preserved page-text extraction."
+  }
+}

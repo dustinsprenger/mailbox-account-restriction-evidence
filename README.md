@@ -105,6 +105,26 @@ I am an independent researcher whose work includes proposed child-protection inf
 
 This record will remain available independently of the forum. A documented explanation or correction will be added with its date. The evidence justifies demanding an answer; it does not justify inventing the cause.
 
+## Mailbox.org policy comparison: the reviewed texts match
+
+Added 26 October 2026. We checked whether mailbox.org had recently rewritten its main privacy notice or general terms. The preserved policy bodies are byte-for-byte identical at the compared dates:
+
+| Document | Archived capture (UTC) | Official-page retrieval (UTC) | Result |
+|---|---|---|---|
+| Data protection notice | [15 June 2026, 05:08:25](https://web.archive.org/web/20260615050825/https://mailbox.org/en/data-protection/) | [25 October 2026, 17:23:48](https://mailbox.org/en/data-protection/) | Identical extracted body: 6,243 words, 38,942 bytes. Both versions state “As of: 27th January 2026.” |
+| General terms and cancellation policy | [27 August 2026, 11:49:42](https://web.archive.org/web/20260827114942/https://mailbox.org/en/t-cs-cancellation-policy/) | [25 October 2026, 17:24:24](https://mailbox.org/en/t-cs-cancellation-policy/) | Identical extracted body: 5,464 words, 32,951 bytes, including prepaid, withdrawal and business sections. |
+
+The Wayback captures were retrieved on 25 October 2026 at 17:26:18 UTC and 17:27:38 UTC respectively; the archive response dates agree with the capture timestamps in the links. The official links lead to live pages; the comparison uses the preserved October 25 copies, not whatever those pages may show later. Capture and retrieval dates are not policy effective dates.
+
+The comparison removes page navigation and the footer, retaining the full policy body between the recorded boundaries. The full HTML responses have different hashes; the extracted policy bodies match. Their SHA-256 values are:
+
+- Privacy notice, both bodies: `124dd7affa86498b9b6672a4e08efe8a50e50f02570255eec797519f7c93b185`
+- General terms, both bodies: `7ea05a18f93ab00f98e425f6b1766244e10496b4cf65e86c923aabb40b7351b3`
+
+[Source and comparison ledger](mailbox-policy-comparison.json) records exact retrieval timestamps, archive references, response and decoded-HTML hashes, extraction boundaries, word counts and the new verification time. The underlying source captures remain unchanged in the local evidence archive.
+
+These observations do not support a claim that a newly introduced clause in these two documents caused the sending restriction. Matching endpoints cannot establish that nothing changed between captures, that linked policies or actual practices were unchanged, or how rules were applied to this account. The unexplained active-plan/unpaid-trial mismatch and the request to identify the alleged spam remain separate, unresolved questions.
+
 ## Additional policy context and unanswered questions
 
 [Apple terms and the Runbox–Mistral–CERN connection](CONTEXT-APPLE-RUNBOX.md) documents Apple’s revised storage/access clauses, a change in Runbox Boxy logging, and Mistral’s separate CERN partnership. It identifies the source dates and limits of each claim. The evidence supports an indirect supplier connection, not a direct Runbox–CERN integration or proof that these matters caused this sending restriction.
